@@ -1,0 +1,13 @@
+My First Blog Post
+2)Once again Add and commit :
+git add post1.txt
+git commit -m "Added first blog post"
+3)Adding one more file and making a commit :
+My Second Blog Post
+1. Today, I started my personal blog! I am excited to share my thoughts and
+experiences with the world.
+2. What I Learned:
+3. The importance of version control
+4. How to initialize a Git repository
+5. How to add and commit changes
+6. Stay tuned for more posts!
